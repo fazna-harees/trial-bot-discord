@@ -4,10 +4,11 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "build": "tsc --build",
         "start": "cls && node build/index.js"
     },
     "keywords": [],
-    "author": "MericcaN41",
+    "author": "fazna-harees",
     "license": "ISC",
     "dependencies": {
         "@discordjs/rest": "^1.1.0",
